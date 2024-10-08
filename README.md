@@ -11,24 +11,31 @@ Apaixonado por tecnologia desde jovem, com experiência em vendas, montagem e ma
 
 ---
 
-<img src="https://raw.githubusercontent.com/pedrorivald/bandeira-brasil/master/estrelas.PNG" alt="Bandeira do Brasil" width="150"/>
-Feito no Brasil | Com interesse tambem em oportunidades fora do Brasil
-
-
----
-
 ### 🛠️ Projetos Realizados
 - **Montagem de Computador**: Planejei, adquiri componentes, montei e configurei um computador, gerenciando o processo através de planilhas.
 - **Empreendimento de Revenda**: Empreendi importando componentes e revendendo para financiar meus projetos de tecnologia.
 
-### 🎓 Certificações
-- **Inglês** (CEFR B2)
-- **Estatística**
-- **Excel, Word, PowerPoint (Avançado)**
+### 🎓  Onde aprendi ?
+- **Inglês** > Education First
+- **Estatística** > Escola VIrtual Gov.br
+- **Excel, Word, PowerPoint** > Fundação Bradesco
 
 ---
 
 ### 🔗 Contato
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
 - Email: seumail@dominio.com
+---
+
+
+<table>
+  <tr>
+    <td style="text-align: right;">
+      <img src="https://raw.githubusercontent.com/pedrorivald/bandeira-brasil/master/estrelas.PNG" alt="Bandeira do Brasil" width="150"/>
+    </td>
+    <td style="vertical-align: middle;">
+      Feito no Brasil | Com interesse também em oportunidades fora do Brasil
+    </td>
+  </tr>
+</table>
 
