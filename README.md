@@ -7,7 +7,7 @@ Apaixonado por tecnologia desde jovem, com experiência em vendas, montagem e ma
 ### 🚀 O que faço:
 - Faço trabalhos de manutenção de computadores, utilizo excel em minhas vendas e uso ativamente o inglês para pesquisas.
 - Estudo constante e certificações em Inglês (CEFR B2) , Estatística, Excel, PowerPoint e Word avançados
-- Compartilho conhecimentos sobre hardware e estou sempre aprendendo novas habilidades.
+- Compartilho conhecimentos sobre hardware e software e estou sempre aprendendo novas habilidades.
 
 ---
 
@@ -15,16 +15,17 @@ Apaixonado por tecnologia desde jovem, com experiência em vendas, montagem e ma
 - **Montagem de Computador**: Planejei, adquiri componentes, montei e configurei um computador, gerenciando o processo através de planilhas.
 - **Empreendimento de Revenda**: Empreendi importando componentes e revendendo para financiar meus projetos de tecnologia.
 
-### 🎓  Onde aprendi ?
+### 🎓  Aonde eu aprendi ?
 - **Inglês** > Education First
 - **Estatística** > Escola VIrtual Gov.br
-- **Excel, Word, PowerPoint** > Fundação Bradesco
+- **Excel, Word, PowerPoint e cursos menores** > Fundação Bradesco 
 
 ---
 
 ### 🔗 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- Email: seumail@dominio.com
+- [Linkedin](https://www.linkedin.com/in/gustavo-henrique-ba6303327/)
+- Email: guhsnow444@gmail.com
+- Telefone: (11) 98404-2368
 ---
 
 
