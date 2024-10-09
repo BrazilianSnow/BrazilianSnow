@@ -40,3 +40,46 @@ Apaixonado por tecnologia desde jovem, com experiência em vendas, montagem e ma
   </tr>
 </table>
 
+---
+
+# Hello! I am Gustavo Henrique 👋
+
+**Technology Enthusiast**
+
+Passionate about technology since a young age, with experience in sales, assembly, maintenance, and advanced computing. I work with popular tools, always seeking to learn new knowledge and apply it to practical projects.
+
+### 🚀 What I do:
+- I work on computer maintenance, use Excel in my sales, and actively use English for research.
+- Constant study and certifications in English (CEFR B2), Statistics, Advanced Excel, PowerPoint, and Word.
+- I share knowledge about hardware and software and am always learning new skills.
+
+---
+
+### 🛠️ Projects Completed
+- **Computer Assembly**: Planned, acquired components, assembled, and configured a computer, managing the process through spreadsheets.
+- **Reselling Venture**: Started a business by importing components and reselling them to fund my technology projects.
+
+### 🎓 Where did I learn?
+- **English** > Education First
+- **Statistics** > Escola Virtual Gov.br
+- **Excel, Word, PowerPoint, and shorter courses** > Fundação Bradesco
+
+---
+
+### 🔗 Contact
+- [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-ba6303327/)
+- Email: guhsnow444@gmail.com
+- Phone: +55 (11) 98404-2368
+---
+
+<table>
+  <tr>
+    <td style="text-align: right;">
+      <img src="https://raw.githubusercontent.com/pedrorivald/bandeira-brasil/master/estrelas.PNG" alt="Brazilian Flag" width="150"/>
+    </td>
+    <td style="vertical-align: middle;">
+      Made in Brazil | Also interested in opportunities outside Brazil
+    </td>
+  </tr>
+</table>
+
