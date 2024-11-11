@@ -6,7 +6,7 @@ Apaixonado por tecnologia desde jovem, com experiência em vendas, montagem e ma
 
 ### 🚀 O que faço:
 - Faço trabalhos de manutenção de computadores, utilizo excel em minhas vendas e uso ativamente o inglês para pesquisas.
-- Estudo constante e certificações em Inglês (CEFR B2) , Estatística, Excel, PowerPoint, Word avançados, Power BI e aprendendo SQL no momento
+- Estudo constante e certificações em inglês fluente, Estatística, Excel, PowerPoint, Word avançados, Power BI e aprendendo SQL no momento
 - Compartilho conhecimentos sobre hardware e software e estou sempre aprendendo novas habilidades.
 
 ---
@@ -51,7 +51,7 @@ Passionate about technology since a young age, with experience in sales, assembl
 
 ### 🚀 What I do:
 - I work on computer maintenance, use Excel in my sales, and actively use English for research.
-- Constant study and certifications in English (CEFR B2), Statistics, Advanced Excel, PowerPoint, Word, Power BI and currently learning SQL.
+- Constant study and fluent english certifications, Statistics, Advanced Excel, PowerPoint, Word, Power BI and currently learning SQL.
 - I share knowledge about hardware and software and am always learning new skills.
 
 ---
