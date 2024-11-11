@@ -6,7 +6,7 @@ Apaixonado por tecnologia desde jovem, com experiência em vendas, montagem e ma
 
 ### 🚀 O que faço:
 - Faço trabalhos de manutenção de computadores, utilizo excel em minhas vendas e uso ativamente o inglês para pesquisas.
-- Estudo constante e certificações em inglês fluente, Estatística, Excel, PowerPoint, Word avançados, Power BI e aprendendo SQL no momento
+- Estudo constante e certificações de inglês fluente, Estatística, Excel, PowerPoint, Word avançados, Power BI e aprendendo SQL no momento
 - Compartilho conhecimentos sobre hardware e software e estou sempre aprendendo novas habilidades.
 
 ---
