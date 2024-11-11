@@ -14,6 +14,7 @@ Apaixonado por tecnologia desde jovem, com experiência em vendas, montagem e ma
 ### 🛠️ Projetos Realizados
 - **Montagem de Computador**: Planejei, adquiri componentes, montei e configurei um computador, gerenciando o processo através de planilhas.
 - **Empreendimento de Revenda**: Empreendi importando componentes e revendendo para financiar meus projetos de tecnologia.
+- [**Projetos de análise de dados**](https://github.com/BrazilianSnow/my-first-project)
 
 ### 🎓  Aonde eu aprendi ?
 - **Inglês** > Education First
